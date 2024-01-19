@@ -24,7 +24,7 @@ Neste projeto foram explorados conceitos como:
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
 
 ## Experimente ✨
-repositório do Piano - Experimente (https://trugilho.github.io/dio-jsgame-detona-ralph-main/)
+repositório do Piano - Experimente (https://trugilho.github.io/dio-jsmusic-keyboard-virtual-main/)
 
 ## Curso ministrado pela Dio.me
  [DIO](https://www.dio.me/)
